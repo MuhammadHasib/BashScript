@@ -4,7 +4,7 @@
 #
 #	Shell program to Make the pdf presentation using latex.
 #
-#	Author: 2015, Muhammad Hasib,,, <hasibdelhi@gmail.com>.
+#	Author: 2015, Muhammad Hasib,, <hasibdelhi@gmail.com>.
 #	
 #	The structure of the program is created by a script prodived on LinuxCommand.org
 #
