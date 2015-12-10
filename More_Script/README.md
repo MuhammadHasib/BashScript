@@ -1,1 +1,1 @@
-Here you find all my code that you.
+Here you can find my bash code.
